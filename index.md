@@ -4,4 +4,4 @@
 
 This browser is made with electronjs
 
-[Click me to the main branch of tutorial and things to tell you](https://github.com/MXP2095onetechguy/NodeJS-browser)
+[Click me to the main branch of tutorial and things to tell you](https://github.com/MXP2095onetechguy/NodeJS-browser/tree/main#nodejs-browser)
