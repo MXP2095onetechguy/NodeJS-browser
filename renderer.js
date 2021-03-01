@@ -111,6 +111,7 @@ function gotohome () {
     view.loadURL('http://www.google.com');
     check();
 }
+function cernalert () { window.alert("info.cern.ch"); }
 function check() {
 /*
   internetAvailable({
