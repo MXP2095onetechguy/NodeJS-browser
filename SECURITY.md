@@ -11,4 +11,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Open an issue and put this label: Code-Vunerability
+Open an issue and put this label: "Code-Vunerability" with no quotes
+and tell the vunerability
