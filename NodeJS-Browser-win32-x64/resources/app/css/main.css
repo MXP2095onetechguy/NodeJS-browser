@@ -300,3 +300,15 @@ body {
     color: #FFFFFF;
     cursor: pointer;
 }
+#barr #copypasta {
+    border: none;
+    outline: none;
+    height: 18px;
+    width: 90%;
+    border-radius: 2px;
+    padding-left: 1px;
+    color: #333;
+    font-family: monospace;
+    margin-top: -30px;
+    text-align: center;
+}

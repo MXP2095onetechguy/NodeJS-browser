@@ -5,6 +5,8 @@ This browser is basicly the same browser except there is no bookmark and there i
 
 Title text is planned
 
+check copypasta is used to finf uout what you have in your clipboard
+
 command to use:
 
 ```bash
