@@ -5,7 +5,7 @@ This browser is basicly the same browser except there is no bookmark and there i
 
 Title text is planned
 
-check copypasta is used to finf uout what you have in your clipboard
+check copypasta is used to find out what you have in your clipboard
 
 command to use:
 
@@ -31,3 +31,10 @@ npm install electron-packager -g
 electron-packager . --overwrite --icon=NJSBI.ico --prune=false
 # if you have the bashbuild or/and build.bat, run it
 ```
+
+
+
+
+# How to contribute
+
+Forking the repository or modifying the code to work on a later version of electron will help
